@@ -25,7 +25,7 @@ python -u -m attack_agent.run_adaptive_attack \
   --max_new_tokens 128
 ```
 
-## Repeated training rounds
+## Repeated training rounds 10
 
 ```bash
 python -u -m attack_agent.run_repeated_adaptive_attack \
